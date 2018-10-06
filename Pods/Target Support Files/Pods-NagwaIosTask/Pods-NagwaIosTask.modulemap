@@ -1,0 +1,6 @@
+module Pods_NagwaIosTask {
+  umbrella header "Pods-NagwaIosTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
